@@ -10,5 +10,5 @@ The names below ordered by first contribution:
 - maybe you
 
 ## Empowered by:
-  - Jadi: <jadijadi@gmail.com> (@jadijadi)
-    + [GNU/Linux - LPIC1](https://jadi.gitbooks.io/lpic1/content/)
+  - [GNU/Linux - LPIC1](https://jadi.gitbooks.io/lpic1/content/)
+	+ Jadi: <jadijadi@gmail.com> (@jadijadi)
